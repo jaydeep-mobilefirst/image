@@ -1,1 +1,1 @@
-# image
+just overwrite the image with same name and extension for logo change in codat app
